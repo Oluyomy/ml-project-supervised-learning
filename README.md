@@ -5,7 +5,7 @@
 ### Duration:
 Approximately 3 hours and 20 minutes.
 ### Project Description:
-In this projects, you will apply supervised learning techniques to a real-world data  and use data visualization tools to communicate the insights gained from the analysis.
+In this projects, you will apply supervised learning techniques to a real-world data set and use data visualization tools to communicate the insights gained from the analysis.
 
 The data set for this project is the "Diabetes" dataset from the National Institute of Diabetes and Digestive and Kidney Diseases 
 The project will involve the following tasks:
