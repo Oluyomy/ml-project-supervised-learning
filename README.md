@@ -26,7 +26,7 @@ Step 2: Loading and understanding the dataset.
 - Working with diabetes.cvs data to understand  each predictor variables included in the dataset.
 - Having a general understanding and information about the relationship between various features that contribute to the target variable (outcome).
 
-Step 3:EDA.exploratory data analysis, 
+Step 3: EDA.exploratory data analysis, 
 - Create a displot, histplot, scatterplot and pairplot to look at the distributions of different predictor variables and their correlation.
 - Learn the trend and detect outlier or possible factor that can affect the statistical model.
 - Create heatmap to take a closer look at the corellation.
@@ -37,11 +37,11 @@ Step 4: preprocessing and feature engineering.
 - Split the into training and testing for appropriate training .
 - Scale the data 
 
-Step 5:Building a  Logistic regression model.
+Step 5: Building a  Logistic regression model.
 Since the dataset contains continuous numerical data and  a binary data, a Logistic regression model was built to prediction model whether a patient has diabetes or not.
 An ensemble  which is RaandomForest Classifier  was also built for proper performance comparism between the two models.
 
-step 6:Evaluation metrics: Appropriate evaluation metrics such as accuracy, precision, recall, F1-score, and ROC-AUC, confusion matrix and Classification Report were included to futher evaluate our models.
+step 6: Evaluation metrics: Appropriate evaluation metrics such as accuracy, precision, recall, F1-score, and ROC-AUC, confusion matrix and Classification Report were included to futher evaluate our models.
 
 step 7: Hypertuning and Cross-validation were performed to get a more robust estimate of the model's performance.
 
